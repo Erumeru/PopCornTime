@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ttitle">25sp</dimen>
+
+    <dimen name="tittleSize">20sp</dimen>
+
+    <dimen name="recText">14sp</dimen>
+
+    <dimen name="descText">15sp</dimen>
+
+    <dimen name="buttonText">20sp</dimen>
+
+    <dimen name="paddingButton">10dp</dimen>
+
+</resources>
